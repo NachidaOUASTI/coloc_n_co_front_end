@@ -29,14 +29,14 @@ Pour exécuter l'application, cloner les deux dépôts (front et back), ouvrir c
 
 ### <u>Étapes à suivre </u> :
 
-### Back:
+### 1-Back:
 
 • Cloner ce dépôt : [Coloc&Co (back)](https://github.com/NachidaOUASTI/coloc_n_co_back_end)
 • Accéder au dossier du projet et l'ouvrir dans votre étideur de code
 • Installez les dépendances répertoriées dans le fichier package.json :
 
 ```bash
-   npm install
+npm install
 ```
 
 • Lancer l'application :
@@ -45,7 +45,7 @@ Pour exécuter l'application, cloner les deux dépôts (front et back), ouvrir c
 npm run dev
 ```
 
-### Front:
+### 2-Front:
 
 • Cloner ce dépôt : [Coloc&Co (front)](https://github.com/NachidaOUASTI/coloc_n_co_front_end)
 • Accéder au dossier du projet et l'ouvrir dans votre étideur de code
