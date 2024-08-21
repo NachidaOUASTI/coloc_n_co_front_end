@@ -1,0 +1,13 @@
+@use '@scssVariables' as v;
+
+.headerSignTitle {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+  &__title {
+    font-weight: 500;
+  }
+  &__subTitle {
+    font-weight: 400;
+  }
+}
