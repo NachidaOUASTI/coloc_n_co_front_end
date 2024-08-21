@@ -52,7 +52,7 @@ npm run dev
 • Installer les dépendances répertoriées dans le fichier package.json :
 
 ```bash
-   npm install
+npm install
 ```
 
 • Lancer l'application :
